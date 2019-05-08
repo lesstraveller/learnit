@@ -7,5 +7,3 @@ fsfsafs
 add some content
 add other content
 5555
-add something in branch dev
-add master
